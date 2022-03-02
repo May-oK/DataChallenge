@@ -2,6 +2,7 @@
 DALI Data Challenge
 May Khine, '23
 
+Note: All visualizations are screenshots of zoomed/enlarged graphs from RStudio. They may look different in the 'Plot' window in RStudio. 
 
 ## **Part A**: 
 Part A is based on the World Income Inequality Dataset(wiid) and 4 visualizations were created to describe the data. 
