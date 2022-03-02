@@ -1,0 +1,45 @@
+age_range,Organization,Name
+no data,NLD,2
+no data,"Medic, Medical Doctor",1
+no data,Civilian,242
+no data,Volunteer,2
+no data,"Public Servant, Education, Teacher",2
+no data,"Public Servant, Education, Teacher, CDM",3
+no data,Student,8
+69+,Civilian,15
+69+,NLD,1
+60-69,NLD,2
+60-69,Civilian,39
+50-59,"Public Servant, Education, Teacher",1
+50-59,NLD,1
+50-59,Volunteer,2
+50-59,"Public Servant, Education, Teacher, CDM",1
+50-59,Civilian,68
+40-49,Volunteer,2
+40-49,Student,1
+40-49,"Medic, Medical Doctor",2
+40-49,"Public Servant, Education, Teacher",1
+40-49,"Public Servant, Education, Teacher, CDM",3
+40-49,Farmer,4
+40-49,Civilian,147
+30-39,Farmer,4
+30-39,NLD,2
+30-39,"Public Servant, Education, Teacher, CDM",3
+30-39,Civilian,230
+30-39,"Public Servant, Education, Teacher",3
+30-39,Volunteer,1
+30-39,"Medic, Nurse",1
+20-29,Student,30
+20-29,PDF (Member of Tigyaing PDF),2
+20-29,"Medic, Nurse",3
+20-29,Civilian,286
+20-29,Farmer,1
+20-29,Volunteer,1
+20-29,"Medic, Medical Doctor",1
+20-29,"Public Servant, Education, Teacher",2
+10-19,Student,27
+10-19,Civilian,128
+10-19,Volunteer,1
+10-19,PDF (Member of Tigyaing PDF),3
+0-9,Civilian,8
+0-9,Student,1
